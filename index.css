@@ -1,0 +1,47 @@
+.num {
+  background-color: wheat;
+  margin: 10px;
+  padding: 20px;
+
+  border: solid black;
+  width: 300px;
+  height: 470px;
+}
+.type {
+  background-color: wheat;
+  align-content: center;
+  border: solid black;
+  width: 300px;
+  padding: 20px;
+  height: 480px;
+  margin: 20PX;
+}
+.tot {
+  background-color: wheat;
+  padding: 20px;
+  align-content: center;
+  border: solid black;
+  width: 300px;
+  height: 460px;
+  margin: 20px;
+}
+.pop {
+  background-color: wheat;
+  align-content: center;
+  border: solid black;
+  width: 300px;
+  height: 480px;
+  padding: 20px;
+}
+.hell {
+  background-color: black;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border: solid black;
+  padding: 30PX;
+  
+}
+.hol {
+  display:flex ;
+}
